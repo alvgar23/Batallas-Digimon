@@ -1,0 +1,63 @@
+=== DIGIMON CARD DUEL V4.1 ===
+Level: All
+Difficulty: 3
+[DRAFT STYLES] Player=type | AI=speed
+[DRAFT PLAYER] Slot 1: Giromon (style=type)
+[DRAFT AI] Slot 1: style=speed, behavior=None | options=['Kokatorimon | SPD 390', 'Hawkmon | SPD 350', 'Growlmon | SPD 380'] -> Kokatorimon
+[DRAFT PLAYER] Slot 2: Ophanimon (style=type)
+[DRAFT AI] Slot 2: style=speed, behavior=None | options=['Piximon | SPD 480', 'Betamon | SPD 320', 'Pukumon | SPD 550'] -> Pukumon
+[DRAFT PLAYER] Slot 3: Ankylomon (style=type)
+[DRAFT AI] Slot 3: style=speed, behavior=None | options=['Devimon | SPD 350', 'Skullgreymon | SPD 450', 'Gotsumon | SPD 300'] -> Skullgreymon
+[DRAFT PLAYER] Slot 4: Ebemon (style=type)
+[DRAFT AI] Slot 4: style=speed, behavior=None | options=['Guilmon | SPD 350', 'Bakemon | SPD 380', 'Terriermon | SPD 390'] -> Terriermon
+[DRAFT PLAYER] Slot 5: Megaseadramon (style=type)
+[DRAFT AI] Slot 5: style=speed, behavior=None | options=['ExVeemon | SPD 400', 'Kiwimon | SPD 370', 'Garudamon | SPD 460'] -> Garudamon
+
+===== TURN 1 =====
+Player chose: Ankylomon
+[AI MODE SELECTED]: aggressive
+[AI] Hand classified: [('Pukumon', 3004.4), ('Skullgreymon', 2747.6), ('Garudamon', 2597.0), ('Kokatorimon', 2232.8), ('Terriermon', 1969.8)]
+[AI] Personality='aggressive' chose: Pukumon
+AI chose: Pukumon
+Base stats: 0-5
+Winner by base stats: Pukumon
+-> AI wins
+
+===== TURN 2 =====
+Player chose: Megaseadramon
+[AI] Hand classified: [('Skullgreymon', 2747.6), ('Garudamon', 2597.0), ('Kokatorimon', 2232.8), ('Terriermon', 1969.8)]
+[AI] Personality='aggressive' chose: Skullgreymon
+AI chose: Skullgreymon
+Base stats: 2-3
+Winner by base stats: Skullgreymon
+-> AI wins
+
+===== TURN 3 =====
+Player chose: Giromon
+[AI] Hand classified: [('Garudamon', 2597.0), ('Kokatorimon', 2232.8), ('Terriermon', 1969.8)]
+[AI] Personality='aggressive' chose: Garudamon
+AI chose: Garudamon
+Base stats: 2-3
+Winner by base stats: Garudamon
+-> AI wins
+
+===== TURN 4 =====
+Player chose: Ophanimon
+[AI] Hand classified: [('Kokatorimon', 2232.8), ('Terriermon', 1969.8)]
+[AI] Personality='aggressive' chose: Kokatorimon
+AI chose: Kokatorimon
+Base stats: 5-0
+Winner by base stats: Ophanimon
+-> Player wins
+
+===== TURN 5 =====
+Player chose: Ebemon
+[AI] Hand classified: [('Terriermon', 1969.8)]
+[AI] Personality='aggressive' chose: Terriermon
+AI chose: Terriermon
+Base stats: 5-0
+Winner by base stats: Ebemon
+-> Player wins
+
+Final Score: 2-3
+AI WINS MATCH!

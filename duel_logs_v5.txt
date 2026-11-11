@@ -1,0 +1,454 @@
+=== DIGIMON CARD DUEL V5 ===
+Difficulty=3
+
+
+==== LEVEL ROOKIE ====
+
+--- ROOKIE BATTLE 1 ---
+
+=== MATCH (NO DRAFT) ===
+
+===== TURN 1 =====
+Player plays: Betamon
+[AI MODE] opportunistic
+[AI] Scored hand: [('Kiwimon', 2134.2), ('Renamon', 2116.4), ('Guilmon', 2012.6), ('Terriermon', 1969.8), ('Impmon', 1953.2)]
+[AI] opportunistic → Kiwimon
+AI plays: Kiwimon
+Base stats: 1-4
+Winner by base stats: Kiwimon
+-> AI wins
+
+===== TURN 2 =====
+Player plays: Agumon
+[AI] Scored hand: [('Renamon', 2116.4), ('Guilmon', 2012.6), ('Terriermon', 1969.8), ('Impmon', 1953.2)]
+[AI] opportunistic → Renamon
+AI plays: Renamon
+Base stats: 0-5
+Winner by base stats: Renamon
+-> AI wins
+
+===== TURN 3 =====
+Player plays: Patamon
+[AI] Scored hand: [('Guilmon', 2012.6), ('Terriermon', 1969.8), ('Impmon', 1953.2)]
+[AI] opportunistic → Impmon
+AI plays: Impmon
+Base stats: 1-4
+Winner by base stats: Impmon
+-> AI wins
+
+===== TURN 4 =====
+Player plays: Crabmon
+[AI] Scored hand: [('Guilmon', 2012.6), ('Terriermon', 1969.8)]
+[AI] opportunistic → Guilmon
+AI plays: Guilmon
+Base stats: 0-5
+Winner by base stats: Guilmon
+-> AI wins
+
+===== TURN 5 =====
+Player plays: Terriermon
+[AI] Scored hand: [('Terriermon', 1969.8)]
+[AI] opportunistic → Terriermon
+AI plays: Terriermon
+Base stats: 0-0
+Media tie
+ATQ2-DEF tie
+ATQ1-DEF tie
+Perfect tie
+-> Tie
+[RESULT] Player 0 – AI 4
+
+--- ROOKIE BATTLE 2 ---
+
+=== MATCH (WITH DRAFT) ===
+[DRAFT STYLES] Player=attack | AI=speed
+[AI DRAFT] Slot 1 | ['Gazimon | SPD 340', 'Sukamon | SPD 340', 'Kiwimon | SPD 370'] → Kiwimon
+[AI DRAFT] Slot 2 | ['Renamon | SPD 430', 'Floramon | SPD 340', 'Palmon | SPD 300'] → Renamon
+[AI DRAFT] Slot 3 | ['Gotsumon | SPD 300', 'Armadillomon | SPD 320', 'Agumon | SPD 310'] → Armadillomon
+[AI DRAFT] Slot 4 | ['Sukamon | SPD 340', 'Biyomon | SPD 330', 'Nanimon | SPD 360'] → Nanimon
+[AI DRAFT] Slot 5 | ['Impmon | SPD 370', 'Crabmon | SPD 330', 'Mushroomon | SPD 340'] → Impmon
+
+===== TURN 1 =====
+Player plays: Betamon
+[AI MODE] chaotic
+[AI] Scored hand: [('Kiwimon', 2134.2), ('Renamon', 2116.4), ('Impmon', 1953.2), ('Nanimon', 1815.6), ('Armadillomon', 1715.2)]
+[AI] chaotic → Kiwimon
+AI plays: Kiwimon
+Base stats: 1-4
+Winner by base stats: Kiwimon
+-> AI wins
+
+===== TURN 2 =====
+Player plays: Hagurumon
+[AI] Scored hand: [('Renamon', 2116.4), ('Impmon', 1953.2), ('Nanimon', 1815.6), ('Armadillomon', 1715.2)]
+[AI] chaotic → Renamon
+AI plays: Renamon
+Base stats: 0-4
+Winner by base stats: Renamon
+-> AI wins
+
+===== TURN 3 =====
+Player plays: Patamon
+[AI] Scored hand: [('Impmon', 1953.2), ('Nanimon', 1815.6), ('Armadillomon', 1715.2)]
+[AI] chaotic → Impmon
+AI plays: Impmon
+Base stats: 1-4
+Winner by base stats: Impmon
+-> AI wins
+
+===== TURN 4 =====
+Player plays: Kunemon
+[AI] Scored hand: [('Nanimon', 1815.6), ('Armadillomon', 1715.2)]
+[AI] chaotic → Armadillomon
+AI plays: Armadillomon
+Base stats: 3-1
+Winner by base stats: Kunemon
+-> Player wins
+
+===== TURN 5 =====
+Player plays: Terriermon
+[AI] Scored hand: [('Nanimon', 1815.6)]
+[AI] chaotic → Nanimon
+AI plays: Nanimon
+Base stats: 3-1
+Winner by base stats: Terriermon
+-> Player wins
+[RESULT] Player 2 – AI 3
+
+
+==== LEVEL CHAMPION ====
+
+--- CHAMPION BATTLE 1 ---
+
+=== MATCH (NO DRAFT) ===
+
+===== TURN 1 =====
+Player plays: Flymon
+[AI MODE] human
+[AI] Scored hand: [('Devimon', 2390.8), ('Leomon', 2375.2), ('Devidramon', 2346.2), ('Monochromon', 2339.6), ('Tuskmon', 2332.8)]
+[AI] human → Devidramon
+AI plays: Devidramon
+Base stats: 1-4
+Winner by base stats: Devidramon
+-> AI wins
+
+===== TURN 2 =====
+Player plays: Kiwimon
+[AI] Scored hand: [('Devimon', 2390.8), ('Leomon', 2375.2), ('Monochromon', 2339.6), ('Tuskmon', 2332.8)]
+[AI] human → Monochromon
+AI plays: Monochromon
+Base stats: 0-5
+Winner by base stats: Monochromon
+-> AI wins
+
+===== TURN 3 =====
+Player plays: Pegasusmon
+[AI] Scored hand: [('Devimon', 2390.8), ('Leomon', 2375.2), ('Tuskmon', 2332.8)]
+[AI] human → Leomon
+AI plays: Leomon
+Base stats: 1-4
+Winner by base stats: Leomon
+-> AI wins
+
+===== TURN 4 =====
+Player plays: Kurisarimon
+[AI] Scored hand: [('Devimon', 2390.8), ('Tuskmon', 2332.8)]
+[AI] human → Tuskmon
+AI plays: Tuskmon
+Base stats: 2-2
+Media tie
+ATQ2-DEF win: Kurisarimon
+-> Player wins
+
+===== TURN 5 =====
+Player plays: Monochromon
+[AI] Scored hand: [('Devimon', 2390.8)]
+[AI] human → Devimon
+AI plays: Devimon
+Base stats: 2-2
+Media win: Devimon
+-> AI wins
+[RESULT] Player 1 – AI 4
+
+--- CHAMPION BATTLE 2 ---
+
+=== MATCH (WITH DRAFT) ===
+[DRAFT STYLES] Player=attack | AI=attack
+[AI DRAFT] Slot 1 | ['Centarumon | ATQ1 360 | ATQ2 410', 'Octomon | ATQ1 360 | ATQ2 390', 'Drimogemon | ATQ1 380 | ATQ2 420'] → Drimogemon
+[AI DRAFT] Slot 2 | ['Tankmon | ATQ1 340 | ATQ2 450', 'Devimon | ATQ1 390 | ATQ2 430', 'Apemon | ATQ1 380 | ATQ2 390'] → Devimon
+[AI DRAFT] Slot 3 | ['Ogremon | ATQ1 350 | ATQ2 400', 'Knightmon | ATQ1 340 | ATQ2 370', 'Kurisarimon | ATQ1 310 | ATQ2 420'] → Ogremon
+[AI DRAFT] Slot 4 | ['Rockmon | ATQ1 300 | ATQ2 380', 'Seadramon | ATQ1 340 | ATQ2 420', 'Flamedramon | ATQ1 340 | ATQ2 380'] → Seadramon
+[AI DRAFT] Slot 5 | ['Nanimon | ATQ1 280 | ATQ2 300', 'Angemon | ATQ1 350 | ATQ2 480', 'Deltamon | ATQ1 350 | ATQ2 430'] → Angemon
+
+===== TURN 1 =====
+Player plays: Pegasusmon
+[AI MODE] aggressive
+[AI] Scored hand: [('Devimon', 2390.8), ('Angemon', 2311.8), ('Seadramon', 2263.6), ('Ogremon', 2248.6), ('Drimogemon', 2207.2)]
+[AI] aggressive → Devimon
+AI plays: Devimon
+Base stats: 1-4
+Winner by base stats: Devimon
+-> AI wins
+
+===== TURN 2 =====
+Player plays: Monochromon
+[AI] Scored hand: [('Angemon', 2311.8), ('Seadramon', 2263.6), ('Ogremon', 2248.6), ('Drimogemon', 2207.2)]
+[AI] aggressive → Angemon
+AI plays: Angemon
+Base stats: 3-1
+Winner by base stats: Monochromon
+-> Player wins
+
+===== TURN 3 =====
+Player plays: Aquilamon
+[AI] Scored hand: [('Seadramon', 2263.6), ('Ogremon', 2248.6), ('Drimogemon', 2207.2)]
+[AI] aggressive → Seadramon
+AI plays: Seadramon
+Base stats: 2-2
+Media tie
+ATQ2-DEF win: Seadramon
+-> AI wins
+
+===== TURN 4 =====
+Player plays: Mojyamon
+[AI] Scored hand: [('Ogremon', 2248.6), ('Drimogemon', 2207.2)]
+[AI] aggressive → Ogremon
+AI plays: Ogremon
+Base stats: 1-3
+Winner by base stats: Ogremon
+-> AI wins
+
+===== TURN 5 =====
+Player plays: Kabuterimon
+[AI] Scored hand: [('Drimogemon', 2207.2)]
+[AI] aggressive → Drimogemon
+AI plays: Drimogemon
+Base stats: 3-2
+Winner by base stats: Kabuterimon
+-> Player wins
+[RESULT] Player 2 – AI 3
+
+
+==== LEVEL ULTIMATE ====
+
+--- ULTIMATE BATTLE 1 ---
+
+=== MATCH (NO DRAFT) ===
+
+===== TURN 1 =====
+Player plays: Taomon
+[AI MODE] chaotic
+[AI] Scored hand: [('Infermon', 2962.8), ('Kimeramon', 2806.8), ('Skullgreymon', 2747.6), ('Myotismon', 2732.6), ('Magnaangemon', 2725.6)]
+[AI] chaotic → Kimeramon
+AI plays: Kimeramon
+Base stats: 1-4
+Winner by base stats: Kimeramon
+-> AI wins
+
+===== TURN 2 =====
+Player plays: Megakabuterimon
+[AI] Scored hand: [('Infermon', 2962.8), ('Skullgreymon', 2747.6), ('Myotismon', 2732.6), ('Magnaangemon', 2725.6)]
+[AI] chaotic → Myotismon
+AI plays: Myotismon
+Base stats: 1-4
+Winner by base stats: Myotismon
+-> AI wins
+
+===== TURN 3 =====
+Player plays: Infermon
+[AI] Scored hand: [('Infermon', 2962.8), ('Skullgreymon', 2747.6), ('Magnaangemon', 2725.6)]
+[AI] chaotic → Skullgreymon
+AI plays: Skullgreymon
+Base stats: 4-1
+Winner by base stats: Infermon
+-> Player wins
+
+===== TURN 4 =====
+Player plays: Silphimon
+[AI] Scored hand: [('Infermon', 2962.8), ('Magnaangemon', 2725.6)]
+[AI] chaotic → Infermon
+AI plays: Infermon
+Base stats: 0-5
+Winner by base stats: Infermon
+-> AI wins
+
+===== TURN 5 =====
+Player plays: Giromon
+[AI] Scored hand: [('Magnaangemon', 2725.6)]
+[AI] chaotic → Magnaangemon
+AI plays: Magnaangemon
+Base stats: 1-3
+Winner by base stats: Magnaangemon
+-> AI wins
+[RESULT] Player 1 – AI 4
+
+--- ULTIMATE BATTLE 2 ---
+
+=== MATCH (WITH DRAFT) ===
+[DRAFT STYLES] Player=attack | AI=attack
+[AI DRAFT] Slot 1 | ['Andromon | ATQ1 400 | ATQ2 530', 'Marinedevimon | ATQ1 400 | ATQ2 450', 'Garudamon | ATQ1 420 | ATQ2 450'] → Andromon
+[AI DRAFT] Slot 2 | ['Wargrowlmon | ATQ1 430 | ATQ2 480', 'Arukenimon | ATQ1 400 | ATQ2 430', 'Mamemon | ATQ1 390 | ATQ2 450'] → Wargrowlmon
+[AI DRAFT] Slot 3 | ['Garudamon | ATQ1 420 | ATQ2 450', 'Magnaangemon | ATQ1 430 | ATQ2 550', 'Mummymon | ATQ1 410 | ATQ2 440'] → Magnaangemon
+[AI DRAFT] Slot 4 | ['Marinedevimon | ATQ1 400 | ATQ2 450', 'Piximon | ATQ1 420 | ATQ2 470', 'Metalmamemon | ATQ1 410 | ATQ2 460'] → Piximon
+[AI DRAFT] Slot 5 | ['Skullmeramon | ATQ1 430 | ATQ2 480', 'Giromon | ATQ1 400 | ATQ2 460', 'Megaseadramon | ATQ1 420 | ATQ2 470'] → Skullmeramon
+
+===== TURN 1 =====
+Player plays: Paildramon
+[AI MODE] opportunistic
+[AI] Scored hand: [('Magnaangemon', 2725.6), ('Andromon', 2660.6), ('Skullmeramon', 2628.2), ('Piximon', 2523.4), ('Wargrowlmon', 2471.4)]
+[AI] opportunistic → Magnaangemon
+AI plays: Magnaangemon
+Base stats: 2-2
+Media win: Magnaangemon
+-> AI wins
+
+===== TURN 2 =====
+Player plays: Myotismon
+[AI] Scored hand: [('Andromon', 2660.6), ('Skullmeramon', 2628.2), ('Piximon', 2523.4), ('Wargrowlmon', 2471.4)]
+[AI] opportunistic → Andromon
+AI plays: Andromon
+Base stats: 3-2
+Winner by base stats: Myotismon
+-> Player wins
+
+===== TURN 3 =====
+Player plays: Taomon
+[AI] Scored hand: [('Skullmeramon', 2628.2), ('Piximon', 2523.4), ('Wargrowlmon', 2471.4)]
+[AI] opportunistic → Skullmeramon
+AI plays: Skullmeramon
+Base stats: 1-4
+Winner by base stats: Skullmeramon
+-> AI wins
+
+===== TURN 4 =====
+Player plays: Ladydevimon
+[AI] Scored hand: [('Piximon', 2523.4), ('Wargrowlmon', 2471.4)]
+[AI] opportunistic → Piximon
+AI plays: Piximon
+Base stats: 3-1
+Winner by base stats: Ladydevimon
+-> Player wins
+
+===== TURN 5 =====
+Player plays: Arukenimon
+[AI] Scored hand: [('Wargrowlmon', 2471.4)]
+[AI] opportunistic → Wargrowlmon
+AI plays: Wargrowlmon
+Base stats: 1-4
+Winner by base stats: Wargrowlmon
+-> AI wins
+[RESULT] Player 2 – AI 3
+
+
+==== LEVEL MEGA ====
+
+--- MEGA BATTLE 1 ---
+
+=== MATCH (NO DRAFT) ===
+
+===== TURN 1 =====
+Player plays: Skullscorpiomon
+[AI MODE] chaotic
+[AI] Scored hand: [('Diaboromon', 3329.4), ('Piedmon', 3198.0), ('Zhuqiaomon', 3191.0), ('Metalgarurumon', 3186.0), ('Apocalymon', 3183.0)]
+[AI] chaotic → Zhuqiaomon
+AI plays: Zhuqiaomon
+Base stats: 3-2
+Winner by base stats: Skullscorpiomon
+-> Player wins
+
+===== TURN 2 =====
+Player plays: ShinMonzaemon
+[AI] Scored hand: [('Diaboromon', 3329.4), ('Piedmon', 3198.0), ('Metalgarurumon', 3186.0), ('Apocalymon', 3183.0)]
+[AI] chaotic → Apocalymon
+AI plays: Apocalymon
+Base stats: 1-3
+Winner by base stats: Apocalymon
+-> AI wins
+
+===== TURN 3 =====
+Player plays: Ebonwumon
+[AI] Scored hand: [('Diaboromon', 3329.4), ('Piedmon', 3198.0), ('Metalgarurumon', 3186.0)]
+[AI] chaotic → Diaboromon
+AI plays: Diaboromon
+Base stats: 2-3
+Winner by base stats: Diaboromon
+-> AI wins
+
+===== TURN 4 =====
+Player plays: Baihumon
+[AI] Scored hand: [('Piedmon', 3198.0), ('Metalgarurumon', 3186.0)]
+[AI] chaotic → Metalgarurumon
+AI plays: Metalgarurumon
+Base stats: 3-2
+Winner by base stats: Baihumon
+-> Player wins
+
+===== TURN 5 =====
+Player plays: Ophanimon
+[AI] Scored hand: [('Piedmon', 3198.0)]
+[AI] chaotic → Piedmon
+AI plays: Piedmon
+Base stats: 3-2
+Winner by base stats: Ophanimon
+-> Player wins
+[RESULT] Player 3 – AI 2
+
+--- MEGA BATTLE 2 ---
+
+=== MATCH (WITH DRAFT) ===
+[DRAFT STYLES] Player=attack | AI=speed
+[AI DRAFT] Slot 1 | ['Phoenixmon | SPD 580', 'Azulongmon | SPD 500', 'Wargreymon | SPD 540'] → Phoenixmon
+[AI DRAFT] Slot 2 | ['Diaboromon | SPD 580', 'Ebonwumon | SPD 430', 'Apocalymon | SPD 490'] → Diaboromon
+[AI DRAFT] Slot 3 | ['Pukumon | SPD 550', 'Venommyotismon | SPD 420', 'BlackWarGreymon | SPD 550'] → Pukumon
+[AI DRAFT] Slot 4 | ['Machinedramon | SPD 430', 'MaloMyotismon | SPD 450', 'Vikemon | SPD 470'] → Vikemon
+[AI DRAFT] Slot 5 | ['Zhuqiaomon | SPD 560', 'Puppetmon | SPD 500', 'Seraphimon | SPD 550'] → Zhuqiaomon
+
+===== TURN 1 =====
+Player plays: Piedmon
+[AI MODE] human
+[AI] Scored hand: [('Diaboromon', 3329.4), ('Zhuqiaomon', 3191.0), ('Phoenixmon', 3168.0), ('Vikemon', 3095.2), ('Pukumon', 3004.4)]
+[AI] human → Phoenixmon
+AI plays: Phoenixmon
+Base stats: 1-3
+Winner by base stats: Phoenixmon
+-> AI wins
+
+===== TURN 2 =====
+Player plays: Wargreymon
+[AI] Scored hand: [('Diaboromon', 3329.4), ('Zhuqiaomon', 3191.0), ('Vikemon', 3095.2), ('Pukumon', 3004.4)]
+[AI] human → Zhuqiaomon
+AI plays: Zhuqiaomon
+Base stats: 2-2
+Media win: Zhuqiaomon
+-> AI wins
+
+===== TURN 3 =====
+Player plays: ShinMonzaemon
+[AI] Scored hand: [('Diaboromon', 3329.4), ('Vikemon', 3095.2), ('Pukumon', 3004.4)]
+[AI] human → Vikemon
+AI plays: Vikemon
+Base stats: 1-3
+Winner by base stats: Vikemon
+-> AI wins
+
+===== TURN 4 =====
+Player plays: Metaletemon
+[AI] Scored hand: [('Diaboromon', 3329.4), ('Pukumon', 3004.4)]
+[AI] human → Diaboromon
+AI plays: Diaboromon
+Base stats: 1-4
+Winner by base stats: Diaboromon
+-> AI wins
+
+===== TURN 5 =====
+Player plays: MaloMyotismon
+[AI] Scored hand: [('Pukumon', 3004.4)]
+[AI] human → Pukumon
+AI plays: Pukumon
+Base stats: 2-3
+Winner by base stats: Pukumon
+-> AI wins
+[RESULT] Player 0 – AI 5
+
+===== FINAL SCORE =====
+PLAYER 11 | AI 28

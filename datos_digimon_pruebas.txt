@@ -1,0 +1,6 @@
+abreviatura,nombre,defensa,ataque1,ataque2,fuerza,velocidad,media,nivel,tipo
+ARM,Armadillomon,150,230,340,320,340,276,rookie,data
+AGU,Agumon,140,240,380,310,350,284,rookie,vaccine
+TEN,Tentomon,140,250,380,	330,320,284,rookie,vaccine
+Gotsumon,100,250,330,350,360,278,rookie,virus
+OTAM,Otamamon,120,240,300,330,330,264,rookie,virus

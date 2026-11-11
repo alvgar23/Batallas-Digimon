@@ -1,0 +1,62 @@
+=== DIGIMON CARD DUEL V5 ===
+Level: ultimate
+Difficulty: 3
+[DRAFT PLAYER] Slot 1: options ['Ladydevimon', 'Warumonzaemon', 'Skullmeramon'] -> Ladydevimon
+[DRAFT AI] Slot 1: options [('Paildramon', 2567.4), ('Hippogriffomon', 2592.8), ('Shogungekomon', 2583.0)] -> chosen Hippogriffomon
+[DRAFT PLAYER] Slot 2: options ['Giromon', 'Piximon', 'SkullSatamon'] -> SkullSatamon
+[DRAFT AI] Slot 2: options [('Skullmeramon', 2628.2), ('Wargrowlmon', 2471.4), ('Marinedevimon', 2583.0)] -> chosen Skullmeramon
+[DRAFT PLAYER] Slot 3: options ['Metalgreymon', 'WaruSeadramon', 'Airdramon'] -> WaruSeadramon
+[DRAFT AI] Slot 3: options [('Rapidmon', 2600.8), ('Mammothmon', 2530.0), ('Mummymon', 2481.0)] -> chosen Rapidmon
+[DRAFT PLAYER] Slot 4: options ['Digitamamon', 'Mammothmon', 'WereGarurumon'] -> Digitamamon
+[DRAFT AI] Slot 4: options [('Metalmamemon', 2599.0), ('Piximon', 2523.4), ('Angewomon', 2621.0)] -> chosen Angewomon
+[DRAFT PLAYER] Slot 5: options ['Lillymon', 'Darktyranomon', 'Megakabuterimon'] -> Megakabuterimon
+[DRAFT AI] Slot 5: options [('Etemon', 2634.8), ('Silphimon', 2549.0), ('Magnaangemon', 2725.6)] -> chosen Magnaangemon
+
+===== TURN 1 =====
+Player chose: Ladydevimon
+[AI MODE SELECTED]: aggressive
+[AI] Hand classified: [('Magnaangemon', 2725.6), ('Skullmeramon', 2628.2), ('Angewomon', 2621.0), ('Rapidmon', 2600.8), ('Hippogriffomon', 2592.8)]
+[AI] Personality='aggressive' chose card: Angewomon
+AI chose: Angewomon
+Base stats: 2-3
+Winner by base stats: Angewomon
+-> AI wins
+
+===== TURN 2 =====
+Player chose: WaruSeadramon
+[AI] Hand classified: [('Magnaangemon', 2725.6), ('Skullmeramon', 2628.2), ('Rapidmon', 2600.8), ('Hippogriffomon', 2592.8)]
+[AI] Personality='aggressive' chose card: Magnaangemon
+AI chose: Magnaangemon
+Base stats: 1-4
+Winner by base stats: Magnaangemon
+-> AI wins
+
+===== TURN 3 =====
+Player chose: Digitamamon
+[AI] Hand classified: [('Skullmeramon', 2628.2), ('Rapidmon', 2600.8), ('Hippogriffomon', 2592.8)]
+[AI] Personality='aggressive' chose card: Skullmeramon
+AI chose: Skullmeramon
+Base stats: 1-4
+Winner by base stats: Skullmeramon
+-> AI wins
+
+===== TURN 4 =====
+Player chose: Megakabuterimon
+[AI] Hand classified: [('Rapidmon', 2600.8), ('Hippogriffomon', 2592.8)]
+[AI] Personality='aggressive' chose card: Rapidmon
+AI chose: Rapidmon
+Base stats: 2-3
+Winner by base stats: Rapidmon
+-> AI wins
+
+===== TURN 5 =====
+Player chose: SkullSatamon
+[AI] Hand classified: [('Hippogriffomon', 2592.8)]
+[AI] Personality='aggressive' chose card: Hippogriffomon
+AI chose: Hippogriffomon
+Base stats: 2-2
+Media: winner SkullSatamon
+-> Player wins
+
+Final Score: P 1 – AI 4
+AI WINS MATCH!
